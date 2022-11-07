@@ -1,0 +1,72 @@
+body{
+	margin:0;
+	padding:0;
+	background-image: url('https://i.pinimg.com/originals/4a/a9/9b/4aa99b6ad2d2cbc7cb04a41571885a8f.jpg');
+	color:white;
+}
+header{
+	text-align:center;
+}
+#gora{
+	text-align:center;
+	border:solid 2px;
+	height:600px;
+}
+table{
+	border: 2px solid black;
+	width:70%;
+	margin-left:15%;
+	margin-right:auto;
+	height:700px;
+	text-align:center;
+}
+tr{
+	border:solid 2px;
+}
+
+	
+
+td{
+	border:solid 2px;
+}
+
+#dwa{
+	width:33%;
+}
+#trzy{
+	width:33%;
+}
+#cztery{
+	width:33%;
+}
+
+#t1{
+	text-align:center;
+}
+#t2{
+	text-align:center;
+}
+#t3{
+	text-align:center;
+}
+#t4{
+	text-align:center;
+}
+#linkacz{
+	text-align:center;
+}
+#ankieta{
+	text-align:center;
+}
+#haslo{
+	text-align:center;
+}
+form{
+	text-align:center;
+}
+object{
+	width:30%;
+}
+#lista{
+	text-align:left;
+}
